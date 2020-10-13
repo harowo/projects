@@ -4,6 +4,10 @@ This is a repository for random projects that would help you learn! You can cont
 
 If you want to take things a step further, after adding a breif description of the project idea, you can add hints to creating it, as well as possible solutions! This would help people out with learning a new method, or even just showing someone that something exists in the specific programming language or framework.
 
+# Contributing.
+
+Check out the `CONTRIBUTING.md` file on how you can start contributing to this repo.
+
 ## JavaScript projects
 
 ### ToDo list
