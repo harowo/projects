@@ -8,18 +8,14 @@ The goal of this project is to randomly generate passwords, if you want to go ab
     It's pretty simple to generate a random string, all you have to do is:
     ```js
     function randomize(length) {
-      let possible = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!@#$%^&*()1234567890-=_+\][|}{/.,<>?";
+      let possible = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!";
       let characterArray = possible.split('');
-      
-      let final = '';
-      
+      let final = "";
       for(let i = 0; i < length; i++){
         final+=characterArray[Math.floor(Math.random() * characterArray.length)];
       }
-      
       return final;
     }
-    
     /* now you can use randomize(10) and get a random string that is 10 characters long! */
     ```
 </details>
