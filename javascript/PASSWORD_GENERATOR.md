@@ -7,6 +7,7 @@ The goal of this project is to randomly generate passwords, if you want to go ab
   <summary>How to generate a random string.</summary>
     It's pretty simple to generate a random string, all you have to do is:
 ```
+  
     function randomize(length) {
       let possible = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!";
       let characterArray = possible.split('');
