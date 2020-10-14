@@ -18,6 +18,8 @@ Build a simple todo list web page that allows you to add, remove, and complete t
 
 Build a simple stone paper scissors (rock paper scissors) game, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/STONE_PAPER_SCISSORS.md) - Submitted by eswarupkumar
 
+### Password Generator
+
 Build a simple password generator with JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/PASSWORD_GENERATOR.md) - Submitted by sqwyer
 
 ## TypeScript projects
