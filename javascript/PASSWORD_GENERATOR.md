@@ -6,7 +6,7 @@ The goal of this project is to randomly generate passwords, if you want to go ab
 <details>
   <summary>How to generate a random string.</summary>
     It's pretty simple to generate a random string, all you have to do is:
-    ```js
+```
     function randomize(length) {
       let possible = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!";
       let characterArray = possible.split('');
@@ -17,7 +17,7 @@ The goal of this project is to randomly generate passwords, if you want to go ab
       return final;
     }
     /* now you can use randomize(10) and get a random string that is 10 characters long! */
-    ```
+```
 </details>
 
 Submitted by [sqwyer](https://github.com/sqwyer)
