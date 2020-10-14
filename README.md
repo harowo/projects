@@ -14,6 +14,14 @@ Check out the `CONTRIBUTING.md` file on how you can start contributing to this r
 
 Build a simple todo list web page that allows you to add, remove, and complete todos, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/TODO_LIST.md) - Submitted by sqwyer
 
+### Stone Paper Scissors
+
 Build a simple stone paper scissors (rock paper scissors) game, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/STONE_PAPER_SCISSORS.md) - Submitted by eswarupkumar
+
+Build a simple password generator with JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/PASSWORD_GENERATOR.md) - Submitted by sqwyer
+
+## TypeScript projects
+
+### Deno SQLite
 
 Build a simple API for local SQLite instance in Deno with Typescript [View Project](https://github.com/sqwyer/projects/blob/main/typescript/SQLITE-SIMPLE-API.md) - Submitted by dergyitheron
