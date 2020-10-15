@@ -22,8 +22,18 @@ Build a simple stone paper scissors (rock paper scissors) game, [View Project](h
 
 Build a simple password generator with JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/PASSWORD_GENERATOR.md) - Submitted by sqwyer
 
+### Ping Pong game
+
+Build a simple ping pong game using JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/PING_PONG_GAME.md) - Submitted by arpantaneja
+
 ## TypeScript projects
 
 ### Deno SQLite
 
 Build a simple API for local SQLite instance in Deno with Typescript [View Project](https://github.com/sqwyer/projects/blob/main/typescript/SQLITE-SIMPLE-API.md) - Submitted by dergyitheron
+
+## Python projects
+
+### Automating Websites
+
+In this project, you will use tools to automate a website using Python, [View Project](https://github.com/sqwyer/projects/blob/main/python/AUTOMATE_A_WEBSITE.md) - Submitted by Satyajeet-code
