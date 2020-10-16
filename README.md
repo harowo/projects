@@ -26,6 +26,10 @@ Build a simple password generator with JavaScript, [View Project](https://github
 
 Build a simple ping pong game using JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/PING_PONG_GAME.md) - Submitted by arpantaneja
 
+### Bubble Shooter game
+
+Build a simple Bubble Shooter game using JavaScript, [View Project](https://github.com/sqwyer/projects/blob/main/javascript/Bubble_Shooter.md) - Submitted by DheerajKumar
+
 ## TypeScript projects
 
 ### Deno SQLite
