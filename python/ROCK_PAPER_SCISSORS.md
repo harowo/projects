@@ -1,4 +1,4 @@
-# Build a Ping Pong Game
+# Build a simple Rock Paper Scissors game
 
 In this project, you will create a game of rock paper scissors in python. (Beginner-friendly)
 
